@@ -1,1 +1,1 @@
-# This directory contains all my supervised machine learning projects
+# This directory contains all of my supervised machine learning projects
