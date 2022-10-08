@@ -2,7 +2,7 @@
 
 ## About Myself
 Hello! Welcome to my portfolio. My name is Yash Saxena and I have been a business development professional for 6.5 years and now I am looking to 
-break into Data Science. I did my PG Certification from Great Learning in Data Science and Business Analytics. This portfolio will contain the code files and documentation of all the projects that I have done so far. I have segmented the profile according to the skills utilised.
+break into Data Science. I did my PG Certification from Great Learning in Data Science and Business Analytics. This portfolio will contain the code files and documentation of all the projects that I have done so far. I have segmented the profile according to the skills utilised. I will be updating the rest of the repositories in few days!
 
 ---
 
