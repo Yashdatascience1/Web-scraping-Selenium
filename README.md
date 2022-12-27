@@ -8,4 +8,3 @@ In this project, I scraped the website Yelp.com using selenium and XPATH express
 3. Number of reviews
 4. Location
 5. Rating
-
